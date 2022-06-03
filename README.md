@@ -6,9 +6,12 @@ SATO-MOBILE (pronounced : sato-mobil) is a mobile application built with React N
 ## SCREENS
 
 ![screen-1](https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-1.jpg)
-![screen-1]([https://github.com/ksowah/QUIZ-APP/blob/main/images/img1.jpg?raw=true](https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-1.jpg?raw=true))
-![screen-1]([https://github.com/ksowah/QUIZ-APP/blob/main/images/img1.jpg?raw=true](https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-1.jpg?raw=true))
-![screen-1]([https://github.com/ksowah/QUIZ-APP/blob/main/images/img1.jpg?raw=true](https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-1.jpg?raw=true))
+![screen-1](https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-2.jpg)
+![screen-1](https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-3.jpg)
+![screen-1](https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-4.jpg)
+
+## HIROSHI SATO
+![sato](https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/Hiroshi-Sato.webp)
 
 
 > Why do I have a folder named ".expo" in my project?
