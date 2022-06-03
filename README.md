@@ -5,6 +5,20 @@ SATO-MOBILE (pronounced : sato-mobil) is a mobile application built with React N
 
 ## SCREENS
 
+<div style = "display: flex">
+  <img src = "https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-1.jpg" width = '400' />
+  <img src = "https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-2.jpg" width = '400' />
+</div>
+
+### ON SCROLL
+<div style = "display: flex">
+  <img src = "https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-3.jpg" width = '400' />
+  <img src = "https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-4.jpg" width = '400' />
+</div>
+
+
+## HIROSHI SATO
+![sato](https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/Hiroshi-Sato.webp)
 
 
 > Why do I have a folder named ".expo" in my project?
