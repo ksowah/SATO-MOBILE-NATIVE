@@ -10,7 +10,7 @@ SATO-MOBILE (pronounced : sato-mobil) is a mobile application built with React N
   <img src = "https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-2.jpg" width = '400' />
 </div>
 
-### SCROLL
+### ON SCROLL
 <div style = "display: flex">
   <img src = "https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-3.jpg" width = '400' />
   <img src = "https://github.com/ksowah/SATO-MOBILE-NATIVE/blob/main/assets/screen-4.jpg" width = '400' />
