@@ -15,7 +15,7 @@ import { Entypo } from "@expo/vector-icons";
 import Menu from "./Menu";
 import items from "../items";
 
-const CarItem = () => {
+const CarItem = ({pushNotification}) => {
 	const [locked, setLocked] = useState(false);
 
 	return (
@@ -55,7 +55,7 @@ const CarItem = () => {
 				<View style={tw`flex-1 mb-13`}>
 					<ScrollView>
 						<View style={tw`flex flex-row justify-center mt-[175px]`}>
-							<TouchableOpacity>
+							<TouchableOpacity onPress={pushNotification}>
 								<View
 									style={tw`h-15 w-15 ml-[25px] border rounded-full border-gray-400 flex items-center justify-center`}
 								>
